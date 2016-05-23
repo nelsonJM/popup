@@ -1,0 +1,38 @@
+.tw {
+	font-family: 'Titillium Web', sans-serif;
+}
+
+.tw-light {
+	font-weight: 300;
+}
+
+.tw-thin {
+	font-weight: 200;
+}
+
+.label {
+	padding: 2px 1px;
+	text-transform: uppercase;
+	font-size: 100%;
+}
+
+/* Call */
+
+.call-duration {
+	font-size: 42px;
+}
+
+.call-indicator-success {
+	margin-right: 6px;
+	display: inline-block;
+	width: 10px;
+	height: 10px;
+	background-color: #00D95A;
+	border-radius: 4px;
+}
+
+/* Contact */
+
+.contact-name {
+	font-size: 22px;
+}
