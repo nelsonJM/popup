@@ -39,6 +39,7 @@
 
 /* label */
 .label {
+	display: inline-block;
 	padding: 2px 1px;
 	text-transform: uppercase;
 	font-size: 100%;
@@ -83,7 +84,7 @@
 }
 
 .call-indicator-success {
-	margin-right: 6px;
+	/*margin-right: 6px;*/
 	display: inline-block;
 	width: 10px;
 	height: 10px;
