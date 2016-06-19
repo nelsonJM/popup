@@ -97,3 +97,13 @@
 .contact-name {
 	font-size: 22px;
 }
+
+/* Registers title */
+.registers-title {
+	margin-top: -38px;
+	padding: 8px 22px;
+	width: 280px;
+	font-size: 12px;
+	background: #ebeff2;
+	border-radius: 100px;
+}
